@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Salem Barakat</h1>
+<h3 align="center">I'M BUG HUNTER AND DEVELOPER AND CODE REVIEWS</h3>
+
+- 🔭 I’m currently working **H1**
+
+- 👯 I’m looking to collaborate on **Another ethical hacker**
+
+- 💬 Ask me about **Web vulnerabilities**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
