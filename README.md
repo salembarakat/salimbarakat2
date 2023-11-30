@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salem Barakat</h1>
-<h3 align="center">I'M BUG HUNTER AND DEVELOPER AND CODE REVIEWS</h3>
+<h3 align="center">I'M BUG HUNTER AND DEVELOPER AND SOURCE CODE REVIEWS</h3>
 
 - 🔭 I’m currently working **H1**
 
